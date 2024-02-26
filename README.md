@@ -36,7 +36,7 @@ xfce > kde > cinnamon || gnome
 - Quick Text Editor `kate` by KDE or `notepadqq`
 - IDE `Neovim`
 - Quick Partition Editor `gParted`
-- File Manager `Dolphin` or `fm` or `Thunar`
+- File Manager `yazi` or `Dolphin` or `fm` or `Thunar`
 - Image Viewer `ristretto`
 - Player `vlc` `quodlibet` `parole`
 - Browser `Brave`
