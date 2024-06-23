@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "aoogleak@gmail.com",
+                "Name": "axyut"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Random Dictionary Word for Vocabulary",
+        "Icon": "dictionary",
+        "Id": "com.github.axyut.dict",
+        "Name": "Vocab Builder",
+        "Version": "1",
+        "Website": "https://github.com/axyut/dotfiles/dict"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "KPackageStructure": "Plasma/Applet"
+}
